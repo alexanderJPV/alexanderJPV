@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm alexnader Perez</h1>
 <h3 align="center">I am full stack developer</h3>
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Hi guys!!.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexanderjpv" alt="alexanderjpv" /> </p>
 
 
